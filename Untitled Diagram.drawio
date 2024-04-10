@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T07:51:22.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.3" etag="7kyJOnhZxh2WKhtXXhc1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T07:56:45.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5g9RMJjTxq_L2RoQAvOE" version="24.2.3" type="github">
   <diagram name="Page-1" id="iG1xlvjJYjnBFY-447ue">
-    <mxGraphModel>
+    <mxGraphModel dx="1313" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GFVqEVBS6aksdPTObRWg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GFVqEVBS6aksdPTObRWg-1" target="GFVqEVBS6aksdPTObRWg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFVqEVBS6aksdPTObRWg-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GFVqEVBS6aksdPTObRWg-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GFVqEVBS6aksdPTObRWg-4" target="GFVqEVBS6aksdPTObRWg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFVqEVBS6aksdPTObRWg-4" value="Enter Your Website" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GFVqEVBS6aksdPTObRWg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GFVqEVBS6aksdPTObRWg-6" target="GFVqEVBS6aksdPTObRWg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFVqEVBS6aksdPTObRWg-6" value="Have an Account" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="440" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GFVqEVBS6aksdPTObRWg-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GFVqEVBS6aksdPTObRWg-8" target="GFVqEVBS6aksdPTObRWg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFVqEVBS6aksdPTObRWg-8" value="Login" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GFVqEVBS6aksdPTObRWg-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GFVqEVBS6aksdPTObRWg-10" target="GFVqEVBS6aksdPTObRWg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFVqEVBS6aksdPTObRWg-10" value="Enter Email and Password" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="795" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GFVqEVBS6aksdPTObRWg-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GFVqEVBS6aksdPTObRWg-12" target="GFVqEVBS6aksdPTObRWg-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFVqEVBS6aksdPTObRWg-12" value="Email and Password valid" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="925" width="120" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="GFVqEVBS6aksdPTObRWg-14" value="Login to the System" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1147.5" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
